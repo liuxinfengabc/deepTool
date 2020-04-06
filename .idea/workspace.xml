@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="332f5fca-ba18-4e7d-bce6-c7b88b50f674" name="Default Changelist" comment="" />
+    <list default="true" id="332f5fca-ba18-4e7d-bce6-c7b88b50f674" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,52 +15,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cnn_auto/cnn_train_auto.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1120">
-              <caret line="79" column="11" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
-              <folding>
-                <element signature="e#14#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.keras/keras.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tool/tool_auto.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cnn_auto/main_auto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
+            <state relative-caret-position="526">
               <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/tool/data_prepare.py">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/说明.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#14#70#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="352">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="64">
+                <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -154,11 +151,12 @@
       <replace>model_weight</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/tool/find_all_hdf5.ipynb" />
-        <option value="$PROJECT_DIR$/src/for_test_some_code/readxml.py" />
         <option value="$PROJECT_DIR$/src/for_test_some_code/file/sector.txt" />
         <option value="$PROJECT_DIR$/src/for_test_some_code/write_xlsx.py" />
         <option value="$PROJECT_DIR$/src/for_test_some_code/image_show.py" />
@@ -208,6 +206,8 @@
         <option value="$PROJECT_DIR$/src/tool/data_prepare.py" />
         <option value="$PROJECT_DIR$/src/cnn_auto/main_auto.py" />
         <option value="$USER_HOME$/.keras/keras.json" />
+        <option value="$PROJECT_DIR$/src/readme.md" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -217,55 +217,35 @@
     <option name="width" value="1040" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DeepTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepTool" type="462c0819:PsiDirectoryNode" />
+              <item name="deepTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deepTool" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DeepTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepTool" type="462c0819:PsiDirectoryNode" />
-              <item name="deal-data-whole2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepTool" type="462c0819:PsiDirectoryNode" />
-              <item name="deal-data-whole2" type="462c0819:PsiDirectoryNode" />
-              <item name="train_process2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepTool" type="462c0819:PsiDirectoryNode" />
+              <item name="deepTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deepTool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepTool" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cnn_auto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepTool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepTool" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="E:/workspace_for_liuyang/software/autokeras" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -444,6 +424,14 @@
       <option name="presentableId" value="Default" />
       <updated>1559811981492</updated>
     </task>
+    <task id="LOCAL-00001" summary="集成了多种神经网络">
+      <created>1586145735511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586145735511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -457,8 +445,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4942717" visible="true" weight="0.2734531" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4942717" visible="true" weight="0.2734531" />
       <window_info id="Structure" order="1" sideWeight="0.5057283" side_tool="true" weight="0.247505" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -495,6 +484,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="集成了多种神经网络" />
+    <option name="LAST_COMMIT_MESSAGE" value="集成了多种神经网络" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -565,18 +558,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/deal-data-whole5/train_process3/51002/InceptionResNetV2_loss_batch.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole5/train_process3/51004/InceptionResNetV2_loss_batch.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole5/train_process3/51003/InceptionResNetV2_loss_batch.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole5/train_process3/51005/InceptionResNetV2_loss_batch.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deal-data-whole5/train_process3/51005/InceptionResNetV2_loss_batch.png" />
     <entry file="file://$PROJECT_DIR$/src/tool/CUT.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1503">
@@ -597,13 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/说明.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process3/50007/InceptionResNetV2_loss_batch.png" />
     <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process3/50006/InceptionResNetV2_loss_batch.png" />
     <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process3/50005/InceptionResNetV2_loss_batch.png" />
@@ -615,13 +590,7 @@
     <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process3/50008/InceptionResNetV2_loss_batch.png" />
     <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process3/50010/InceptionResNetV2_loss_batch.png" />
     <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process3/50009/InceptionResNetV2_loss_batch.png" />
-    <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process2/51100/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process2/51100/readme.txt" />
     <entry file="file://D:/anaconda/envs/tensorflow15/Lib/site-packages/keras/callbacks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -629,45 +598,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process2/51000/InceptionResNetV2_loss_batch.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process2/51100/InceptionResNetV2_loss_batch.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process2/51300/InceptionResNetV2_loss_batch.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process2/51200/InceptionResNetV2_loss_batch.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-142-1-141.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole2/train/keyhole/jpg4-18313-1-407.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-204-1-203.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-208-1-207.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-235-1-234.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-277-1-276.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-424-1-423.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-616-1-615.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-11208-1-202.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process2/51000/InceptionResNetV2_loss_batch.png" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process2/51100/InceptionResNetV2_loss_batch.png" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process2/51300/InceptionResNetV2_loss_batch.png" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole6/train_process2/51200/InceptionResNetV2_loss_batch.png" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-142-1-141.jpg" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole2/train/keyhole/jpg4-18313-1-407.jpg" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-204-1-203.jpg" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-208-1-207.jpg" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-235-1-234.jpg" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-277-1-276.jpg" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-424-1-423.jpg" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-616-1-615.jpg" />
+    <entry file="file://$PROJECT_DIR$/deal-data-whole2/validation/keyhole/jpg1-11208-1-202.jpg" />
     <entry file="file://$PROJECT_DIR$/deal-data-whole2/train_procese/4003/DenseNet201_loss_batch.png" />
     <entry file="file://$PROJECT_DIR$/deal-data-whole2/train_procese/4007/DenseNet201__loss_batch.txt" />
     <entry file="file://$PROJECT_DIR$/deal-data-whole2/train_procese/2003/Xception_loss_batch.png" />
@@ -678,13 +621,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deal-data-whole2-bak/train_procese/4011/DenseNet201__lose_epoch.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/deal-data-whole2-bak/train_procese/4011/DenseNet201__lose_epoch.txt" />
     <entry file="file://D:/anaconda/envs/tensorflow15/Lib/site-packages/keras_preprocessing/image/image_data_generator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
@@ -702,6 +639,13 @@
           <folding>
             <element signature="e#14#49#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.keras/keras.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -757,17 +701,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.keras/keras.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cnn_auto/main_auto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
+        <state relative-caret-position="526">
           <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

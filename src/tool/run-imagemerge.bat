@@ -1,0 +1,2 @@
+python ImageMerge.py
+pause
